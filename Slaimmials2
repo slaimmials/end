@@ -1,1 +1,3 @@
-2999.12.29
+v1 = Instance.new("StringValue", game.ReplicatedFirst)
+v1.Name = "Server"
+v1.Value = "2999.12.29"
